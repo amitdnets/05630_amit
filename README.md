@@ -1,7 +1,7 @@
 # Machine Learning Assignment 2 - Model Evaluation & Deployment
 
 ## a. Problem Statement
-The objective of this assignment is to evaluate five machine learning classification models on a structured tabular dataset (12 features, 6,497 samples) and deploy an interactive Streamlit application to evaluate models on test datasets without retraining.
+The objective of the assignment is to evaluate five machine learning classification models on a structured tabular dataset (12 features, 6,497 samples) and deploy an interactive Streamlit application to evaluate models on test datasets without retraining.
 
 ## b. Dataset Description
 - **Dataset Name**: UCI Wine Quality Dataset (Combined Red & White)
@@ -13,7 +13,7 @@ The objective of this assignment is to evaluate five machine learning classifica
 - **Train/Test Split**: 80% Train / 20% Test (1,300 test instances exported to `test_data.csv`)
 
 ## c. Github Repository Link
-https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPOSITORY_NAME>
+https://github.com/amitdnets/05630_amit
 
 ## d. Models Used
 
